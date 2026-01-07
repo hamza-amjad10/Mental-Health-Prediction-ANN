@@ -62,5 +62,5 @@ accuracy                           0.77     58473
 ---
 
 ## Author
-## Hamza Amjad
-## AI, Machine Learning, NLP & Deep Learning Enthusiast
+Hamza Amjad
+AI, Machine Learning, NLP & Deep Learning Enthusiast
